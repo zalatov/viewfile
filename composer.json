@@ -1,9 +1,9 @@
 {
-    "name": "zalatov/viewfile",
+    "name": "zalatov/yii2-viewfile",
     "description": "Wrapper under view files via PHP class allow to check params and types of them.",
     "type": "yii2-helper",
     "license": "MIT",
-    "homepage": "https://github.com/zalatov/viewfile",
+    "homepage": "https://github.com/zalatov/yii2-viewfile",
     "authors": [
         {
             "name": "Zalatov Alexander",
@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/zalatov/viewfile"
+            "url": "https://github.com/zalatov/yii2-viewfile"
         }
     ],
     "require": {
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "zalatov\\viewfile\\": "src"
+            "zalatov\\yii2\\viewfile\\": "src"
         }
     }
 }

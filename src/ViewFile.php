@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace zalatov\viewfile;
+namespace zalatov\yii2\viewfile;
 
 use Throwable;
 use Yii;
