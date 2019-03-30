@@ -14,6 +14,8 @@
 
 declare(strict_types=1);
 
+namespace site\views;
+
 use yii\helpers\Html;
 use zalatov\viewfile\ViewFile;
 
