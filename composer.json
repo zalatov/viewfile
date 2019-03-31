@@ -1,6 +1,6 @@
 {
     "name": "zalatov/yii2-viewfile",
-    "version": "1.0.0",
+    "version": "1.0",
     "description": "Wrapper under view files via PHP class allow to check params and types of them.",
     "type": "yii2-helper",
     "license": "MIT",
@@ -15,7 +15,19 @@
         {
             "type": "git",
             "url": "https://github.com/zalatov/yii2-viewfile.git",
-            "reference":"master"
+            "reference": "master"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "zalatov/yii2-viewfile",
+                "version": "1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zalatov/yii2-viewfile.git",
+                    "reference": "master"
+                }
+            }
         }
     ],
     "require": {
@@ -26,6 +38,5 @@
         "psr-4": {
             "zalatov\\yii2\\viewfile\\": "src"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
