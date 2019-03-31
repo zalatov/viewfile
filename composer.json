@@ -5,6 +5,7 @@
     "type": "yii2-helper",
     "license": "MIT",
     "homepage": "https://github.com/zalatov/yii2-viewfile",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Zalatov Alexander",
