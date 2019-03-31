@@ -24,5 +24,6 @@
         "psr-4": {
             "zalatov\\yii2\\viewfile\\": "src"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
